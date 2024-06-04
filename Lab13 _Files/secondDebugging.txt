@@ -1,0 +1,18 @@
+Int subtractAndSquare(intOne, intTwo)
+returnValue = math.pow(intOne - intTwo,2) // this line subtracts two from one, then squares it.
+return returnValue
+
+Int remainder(intOne, intTwo)
+returnValue = intOne
+while(returnValue  > intTwo)
+	returnValue = returnValue - intTwo;
+
+return returnValue
+
+Int reallyAnnoyingEquation(intOne, intTwo)
+returnValue = 1;
+for(i = 1; i <= intTwo; i++)
+returnValue = returnValue * i;
+
+returnValue = returnValue * intOne
+return returnValue

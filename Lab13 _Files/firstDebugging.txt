@@ -1,0 +1,27 @@
+Char printFirstVowel(String) returns the first vowel of the string.
+
+
+Char printFirstVowel(String)
+for i = 0 to length(String)
+	if(String[i].contains(‘aeiou’)) // checks for a vowel
+		Return String[i] // returns said vowel
+
+Return null;
+
+
+Int numVowels returns the number of vowels in the string
+
+int numVowels(String)
+int numVowels = 0
+for i = 0 to add(String)
+	if(String[i].contains(‘aeiou’))
+		addVowels++;
+
+return numVowels
+
+boolean hasBadWord(String) // checks it for bad word ‘word’
+if(String.contains(‘word’))
+Return true;
+
+
+Return false;

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StringScrambler
+comment0.text=\n\ class\ StringScrambler\n\n\ @author\ Mahek\ Kothari\n\ @version\ 2024-3-1\n
+comment1.params=wordVal
+comment1.target=StringScrambler(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StringScramble\n\ \n\ @param\ wordVal\ the\ word\ to\ be\ manipulated.\n
+comment2.params=
+comment2.target=java.lang.String\ scrambleFirstLast()
+comment2.text=\n\ Swaps\ the\ first\ and\ last\ characters\ of\ the\ word.\n\ \n\ \n\ @return\ the\ modified\ string\ or\ the\ out\ of\ null.\n
+comment3.params=
+comment3.target=java.lang.String\ scrambleSecondThird()
+comment3.text=\n\ Swaps\ the\ second\ and\ third\ characters\ of\ the\ word.\n\n\ \ \ \n\ @return\ the\ modified\ string\ or\ the\ out\ of\ null.\n
+comment4.params=index
+comment4.target=java.lang.String\ scrambleAdjacentTwo(int)
+comment4.text=\n\ \n\n\ @param\ \ index\ the\ the\ index\ of\ the\ scrambleAdjacentTwo\n\ @return\ the\ modified\ string\ or\ output\ of\ null\n
+comment5.params=index
+comment5.target=java.lang.String\ scrambleNotAdjacentTwo(int)
+comment5.text=\n\ \n\n\ @param\ index\ the\ Index\ of\ the\ scrambleNotAdjacentTwo\n\ @return\ the\ modified\ string\ or\ output\ of\ null\n
+numComments=6

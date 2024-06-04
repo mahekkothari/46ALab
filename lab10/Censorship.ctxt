@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Censorship
+comment1.params=
+comment1.target=Censorship()
+comment2.params=str
+comment2.target=boolean\ isBadWord(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ containsBadWord(java.lang.String)
+comment4.params=str
+comment4.target=boolean\ addBadWord(java.lang.String)
+comment5.params=
+comment5.target=void\ listBadWords()
+comment6.params=str
+comment6.target=java.lang.String\ censorBadWords(java.lang.String)
+comment7.params=str
+comment7.target=boolean\ removeBadWord(java.lang.String)
+numComments=8
